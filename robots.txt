@@ -3,6 +3,7 @@ Allow:    http://webdesigner.ga/
 Disallow: http://webdesigner.ga/sitemap.txt
 Disallow: http://webdesigner.ga/robots.txt
 Disallow: http://webdesigner.ga/images/
-Disalow:  http://webdesigner.ga/css/
-Disalow:  http://webdesigner.ga/font-awesome/
+Disallow:  http://webdesigner.ga/css/
+Disallow:  http://webdesigner.ga/font-awesome/
+Disallow: https://webdesigner2.netlify.com/
 Sitemap:  http://webdesigner.ga/sitemap.txt
