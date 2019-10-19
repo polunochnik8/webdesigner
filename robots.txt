@@ -1,4 +1,4 @@
-User-agent: Yandex,Google,Bing,Duckduckgo
+User-agent:*
 Allow:    http://webdesigner.ga/
 Disallow: http://webdesigner.ga/sitemap.txt
 Disallow: http://webdesigner.ga/robots.txt
