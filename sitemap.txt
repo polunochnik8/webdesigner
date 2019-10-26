@@ -1,4 +1,4 @@
-http://webdesigner.ga
-http://webdesigner.ga/index.html
-http://webdesigner.ga/single.html
-http://webdesigner.ga/vash_zapros.html
+https://webdesigner.ga
+https://webdesigner.ga/index.html
+https://webdesigner.ga/single.html
+https://webdesigner.ga/vash_zapros.html
