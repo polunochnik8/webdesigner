@@ -1,4 +1,3 @@
-User-agent:*
+User-agent:* Yandex
 Allow:    https://webdesigner.ga/
-Disallow: https://webdesigner2.netlify.com
 Sitemap:  https://webdesigner.ga/sitemap.txt
