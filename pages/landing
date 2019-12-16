@@ -1,0 +1,27 @@
+<Doctype! html>
+<html lang="ru" charset="utf8">
+<head>
+<style>button{  background-image: linear-gradient(to right, orange , yellow);color:black; width:80px; height:50px; font-size:20px;} h2{font-size:30px;} body{background: black; color:white;}
+</style>
+</head>
+<center>
+<body>
+<header>
+	<a href="https://rechicapivo.by"><img src="img/probka.png" width="180px"></a>
+</header>
+<article>
+
+<h1>Речицкое пиво</h1>
+<h2>Яркий, насыщенный вкус. Традиции белорусского пивоварения.</h2>
+<img src="img/tributylki.png">
+<p>Беспрецендентная акция от ОДО "Речицапиво".<br>
+<p>*Закажи ящик пива по акции на рождественские праздники, и получи в подарок фирменную открывашку!</p>
+<h2>Хотите ящик пива по акции?*</h2>
+ <button tupe="button" href=landing.html>Да</button> <button type="button" href="net2.html">Нет</button>
+</article>
+<article>
+	<h3>Внимание! Черезмерное употребление алкогольных напитков вредит вашему здоровью!</h3>
+</article>
+</body>
+</center>
+</html>
